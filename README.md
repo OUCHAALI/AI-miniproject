@@ -1,0 +1,1 @@
+This project focuses on detecting emotions in human faces using deep learning techniques. By analyzing facial expressions, we aim to classify emotions such as happiness, sadness, anger, surprise, and more.
